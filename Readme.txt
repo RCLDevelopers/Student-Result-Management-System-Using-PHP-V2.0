@@ -4,12 +4,12 @@ How to run this Project
 
 1. Download and Unzip file on your local system copy srms folder.
 
-2. Put srms folder inside root directory
+2. Put srms folder insideï¿½root directory
 
 Database Configuration
 
 Open phpmyadmin
-Create Database srms
+Create Databaseï¿½srms
 Import database srms.sql (available inside zip package)
 
 For User
@@ -18,15 +18,12 @@ Open Your browser put inside browser http://localhost/srms
 
 *********************Details of student**********************
 
-Student name-- Anuj Kumar 
+Student name-- Anuj Kumarï¿½
 Roll id--10861
 Student Class: Fourth(C)
 
 ********************For Admin Panel************************
 
 Open Your browser put inside browser http://localhost/srms
-Username : admin
+Username :ï¿½admin
 Password : Test@123
-
-
-For More Details --- https://phpgurukul.com/student-result-management-system/
